@@ -10,10 +10,12 @@ Highlightd Gems:
 
 * Postgresql `1.1`
 
-* importmap-rails `0.3.4`
+* Importmap Rails `0.3.4`
 
-* turbo-rails `0.7.11`
+* Turbo Rails `0.7.11`
 
-* stimulus-rails `0.4.0`
+* Stimulus Rails `0.4.0`
 
-* redis `4.0`
+* Redis `4.0`
+
+* TailwindCSS Rails `0.5.1`
