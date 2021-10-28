@@ -2,9 +2,13 @@
 
 A template for a new Rails `7.0.0.alpha2` application with basic gems to get started. Forked or/and clone it and start your new Rails 7 project.
 
-it is not meant for JS and CSS bundling using Node. Importmap support pinning or adding external CDN JS libraries such as Vue, React or others out of the box.
+### Features
+- Rails 7 alpha with importmap
+- Header, footer and main contnet with Tailwind CSS gem.
+- Dropdown stimulus controller.
+- Tailwind Dark mood example.
 
-Highlightd Gems:
+### Highlightd Gems:
 
 * Ruby version `3.0.2`
 
@@ -19,3 +23,6 @@ Highlightd Gems:
 * Redis `4.0`
 
 * TailwindCSS Rails `0.5.1`
+
+
+- It is not meant for JS and CSS bundling using Node. Importmap support pinning or adding external CDN JS libraries such as Vue, React or others out of the box.
