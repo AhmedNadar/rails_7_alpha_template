@@ -1,6 +1,6 @@
 # Rails 7 alpha Template
 
-A template for a new Rails `7.0.0.alpha2` application with basic gems to get started. Fork or/and clone it and start your new Rails 7 project.
+A template for a new Rails `7.0.0.alpha2` application with basic gems to get started. Fork it, clone it and start your new Rails 7 project.
 
 ### Features
 - Rails 7 alpha with importmap
